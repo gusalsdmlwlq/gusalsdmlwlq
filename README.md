@@ -1,14 +1,14 @@
 ## ✨Hyunmin Jeon✨
 
 * In computer science & engineering
-* On master's program in Intelligent Software Lab, POSTECH
-* Researching NLP, specifically task-oriented dialogue system
+* On Master's program in Intelligent Software Lab, POSTECH
+* Researching NLP, specifically task-oriented dialog system
 
 ### 💬Interests
 
 * Deep learning
 * NLP
-* Dialogue system 
+* Dialog system 
 
 ### 📫How to reach me
 
