@@ -2,13 +2,13 @@
 
 * In computer science & engineering
 * On Master's program in Intelligent Software Lab, POSTECH
-* Researching NLP, specifically task-oriented dialog system
+* Researching NLP, specifically task-oriented dialogue system
 
 ### 💬Interests
 
 * Deep learning
 * NLP
-* Dialog system 
+* Dialogue system 
 
 ### 📫How to reach me
 
