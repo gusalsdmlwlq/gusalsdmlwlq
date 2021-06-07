@@ -1,18 +1,21 @@
 ## ✨Hyunmin Jeon✨
 
-* In computer science & engineering
-* On Master's program in Intelligent Software Lab, POSTECH
+* M.S. in Computer Science & Engineering at POSTECH, South Korea
 * Researching NLP, specifically task-oriented dialogue system
 
 ### 💬Interests
 
 * Deep learning
 * NLP
-* Dialogue system 
+* Task-oriented dialogue system
+
+### 🌱About me
+
+* [CV](https://drive.google.com/file/d/1cblg22wiiKVE1ERL-1FEDCmB8dK_SUro/view?usp=sharing)
 
 ### 📫How to reach me
 
-* Emails: [jhm9507@postech.ac.kr](mailto:jhm9507@postech.ac.kr) / gusalsrhkals@naver.com
+* Emails: gusalsrhkals@naver.com / [jhm9507@gmail.com](mailto:jhm9507@gmail.com)
 * LinkedIn: https://www.linkedin.com/in/jhm9507
 * Blog: https://gusalsdmlwlq.github.io
 
