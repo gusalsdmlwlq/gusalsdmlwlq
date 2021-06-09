@@ -11,11 +11,11 @@
 
 ### 🌱About me
 
-* [CV](https://drive.google.com/file/d/1cblg22wiiKVE1ERL-1FEDCmB8dK_SUro/view?usp=sharing)
+* [Portfolio](https://gusalsdmlwlq.github.io/about/)
 
 ### 📫How to reach me
 
-* Emails: gusalsrhkals@naver.com / [jhm9507@gmail.com](mailto:jhm9507@gmail.com)
+* Emails: gusalsrhkals@naver.com / [jhm9507@postech.ac.kr](mailto:jhm9507@postech.ac.kr)
 * LinkedIn: https://www.linkedin.com/in/jhm9507
 * Blog: https://gusalsdmlwlq.github.io
 
