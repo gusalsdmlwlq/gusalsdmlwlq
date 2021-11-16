@@ -1,7 +1,6 @@
 ## ✨Hyunmin Jeon✨
 
-* M.S. in Computer Science & Engineering at POSTECH, South Korea
-* Researching NLP, specifically task-oriented dialogue system
+* AI & NLP developer in GamevilCom2usPlatform
 
 ### 💬Interests
 
@@ -15,7 +14,7 @@
 
 ### 📫How to reach me
 
-* Emails: gusalsrhkals@naver.com / [jhm9507@postech.ac.kr](mailto:jhm9507@postech.ac.kr)
+* Emails: gusalsrhkals@naver.com / [jhm9507@gamevilcom2us.com](mailto:jhm9507@gamevilcom2us.com)
 * LinkedIn: https://www.linkedin.com/in/jhm9507
 * Blog: https://gusalsdmlwlq.github.io
 
