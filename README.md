@@ -1,6 +1,6 @@
 ## ✨Hyunmin Jeon✨
 
-* AI & NLP developer in GamevilCom2usPlatform
+* AI & NLP developer in Com2usPlatform
 
 ### 💬Interests
 
@@ -14,7 +14,7 @@
 
 ### 📫How to reach me
 
-* Emails: gusalsrhkals@naver.com / [jhm9507@gamevilcom2us.com](mailto:jhm9507@gamevilcom2us.com)
+* Emails: [gusalsrhkals@naver.com](mailto:gusalsrhkals@naver.com) / [jhm9507@com2us.com](mailto:jhm9507@com2us.com)
 * LinkedIn: https://www.linkedin.com/in/jhm9507
 * Blog: https://gusalsdmlwlq.github.io
 
