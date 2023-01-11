@@ -14,9 +14,10 @@
 
 ### 📫How to reach me
 
-* Emails: [gusalsrhkals@naver.com](mailto:gusalsrhkals@naver.com) / [jhm9507@com2us.com](mailto:jhm9507@com2us.com)
+* Emails: [gusalsrhkals@naver.com](mailto:gusalsrhkals@naver.com)
 * LinkedIn: https://www.linkedin.com/in/jhm9507
 * Blog: https://gusalsdmlwlq.github.io
+* Google Scholar: https://scholar.google.co.kr/citations?user=5_Ij0igAAAAJ
 
 <!--
 **gusalsdmlwlq/gusalsdmlwlq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
