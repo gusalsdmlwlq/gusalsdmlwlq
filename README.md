@@ -1,6 +1,6 @@
 ## ✨Hyunmin Jeon✨
 
-* AI & NLP developer in Com2usPlatform
+* AI & NLP developer
 
 ### 💬Interests
 
