@@ -1,12 +1,47 @@
 ## ✨Hyunmin Jeon✨
 
-* AI & NLP developer
+* AI & NLP Engineer
 
 ### 💬Interests
 
-* Deep learning
+#### Language & Framework
+
+* Python
+* FastAPI
+* Pytorch
+* Langchain
+* Google ADK
+* GraphRAG
+* Celery
+* Airflow
+* Flutter
+
+#### AI
+
+* Deep Learning
 * NLP
-* Task-oriented dialogue system
+* Task-oriented Dialogue System
+* LLM
+* RAG
+* Prompt Engineering
+* Generative Agent
+* Multi-Agent Orchestration
+* Knowledge Graph
+* MCP
+
+#### Data
+
+* MongoDB
+* Elastic Search
+* Redis
+
+#### Cloud & DevOps
+
+* Docker
+* GCP
+* GKE
+* Jenkins
+* Firebase
 
 ### 🌱About me
 
