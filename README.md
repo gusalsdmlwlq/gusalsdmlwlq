@@ -43,11 +43,10 @@
 
 ### 🌱About me
 
-* [Portfolio](https://gusalsdmlwlq.github.io/about/)
+* [Portfolio](https://gusalsdmlwlq.github.io)
 
 ### 📫How to reach me
 
 * Emails: [gusalsrhkals@naver.com](mailto:gusalsrhkals@naver.com)
 * LinkedIn: https://www.linkedin.com/in/jhm9507
-* Blog: https://gusalsdmlwlq.github.io
 * Google Scholar: https://scholar.google.co.kr/citations?user=5_Ij0igAAAAJ
